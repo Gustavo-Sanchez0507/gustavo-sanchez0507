@@ -32,10 +32,10 @@ Python Flask app using **NLP and machine learning** to detect spam messages with
 
 ---
 
-## 🌱 Currently Learning
-- Advanced **algorithms & data structures**
-- Cloud architecture patterns on **AWS**
-- Real-time full-stack app optimization
+## 🖼 Portfolio
+
+Check out my work and projects on my portfolio website:  
+[🌐 My Portfolio](https://your-portfolio-url.com)
 
 ---
 
